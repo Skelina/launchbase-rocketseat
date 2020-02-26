@@ -1,6 +1,5 @@
 // Cálculo de IMC
 
-
 const nome = 'Joana';
 const peso = 90;
 const altura = 1.64;
